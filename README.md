@@ -67,16 +67,19 @@ This simulation used Splunk to ingest and analyze logs across:
 index=main sourcetype="auth_logs" user="j.smith@company.com"
 index=main sourcetype="smb_logs" | stats count by file_accessed
 index=main sourcetype="ps_logs" | table timestamp user command status
-
+```
 ---
 
 ### 📸 Screenshots
 
-#### 1. Suspicious Login Detected
-![Suspicious Login](./screenshots/splunk_auth_search.png)
+#### 1. User Activity Overview 
+![User Activity](./screenshots/query1.png)
 
-#### 2. Sensitive File Access via SMB
-![SMB File Access](./screenshots/splunk_smb_results.png)
+#### 2. Login Source IP & Geolocation Analysis
+![Auth Logs](./screenshots/query2.png)
 
-#### 3. PowerShell Command Execution
-![PowerShell](./screenshots/splunk_ps_results.png)
+#### 3. SMB File Access – Sensitive Data Retrieval
+![SMB File Access](./screenshots/query3.png)
+
+#### 3. PowerShell Command Execution Timeline
+![PowerShell](./screenshots/query4.png)
