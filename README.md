@@ -70,4 +70,5 @@ index=main sourcetype="ps_logs" | table timestamp user command status
 
 ---
 
-###📸 **Screenshots**:
+##📸 **Screenshots**
+
