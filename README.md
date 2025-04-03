@@ -19,7 +19,6 @@ This project simulates a real-world SOC (Security Operations Center) investigati
 - **Splunk (Free Cloud)** – for log ingestion, search, and correlation  
 - **MITRE ATT&CK Navigator** – to map tactics and techniques  
 - **Markdown** – for structured documentation  
-- **Canva** – for timeline visuals (optional)
 
 ---
 
