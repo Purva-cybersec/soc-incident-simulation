@@ -70,5 +70,13 @@ index=main sourcetype="ps_logs" | table timestamp user command status
 
 ---
 
-##📸 **Screenshots**
+### 📸 Screenshots
 
+#### 1. Suspicious Login Detected
+![Suspicious Login](./screenshots/splunk_auth_search.png)
+
+#### 2. Sensitive File Access via SMB
+![SMB File Access](./screenshots/splunk_smb_results.png)
+
+#### 3. PowerShell Command Execution
+![PowerShell](./screenshots/splunk_ps_results.png)
