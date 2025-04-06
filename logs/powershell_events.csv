@@ -1,0 +1,5 @@
+timestamp,user,command,status
+2025-03-15 02:15:32,j.smith@company.com,Get-LocalUser,Executed
+2025-03-15 02:15:57,j.smith@company.com,Invoke-WebRequest -Uri http://malicious-url.xyz,Executed
+2025-03-15 02:16:21,j.smith@company.com,Add-LocalGroupMember -Group Administrators -Member j.smith,Executed
+2025-03-15 09:02:00,k.johnson@company.com,Get-Service,Executed

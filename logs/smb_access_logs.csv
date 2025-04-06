@@ -1,0 +1,5 @@
+timestamp,user,file_accessed,action
+2025-03-15 02:14:10,j.smith@company.com,\\FS-Server-01\HR\payroll.xlsx,Read
+2025-03-15 02:14:25,j.smith@company.com,\\FS-Server-01\Legal\contracts.docx,Read
+2025-03-15 02:14:58,j.smith@company.com,\\FS-Server-01\IT\admin_creds.txt,Read
+2025-03-15 08:50:33,a.williams@company.com,\\FS-Server-01\Marketing\plan.pdf,Read

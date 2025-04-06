@@ -1,0 +1,5 @@
+timestamp,user,source_ip,status,location
+2025-03-15 02:12:03,j.smith@company.com,189.23.54.18,Success,"São Paulo, Brazil"
+2025-03-15 02:13:45,j.smith@company.com,189.23.54.18,Success,"São Paulo, Brazil"
+2025-03-15 08:45:21,a.williams@company.com,10.10.1.45,Success,Internal
+2025-03-15 09:01:12,k.johnson@company.com,10.10.2.11,Success,Internal
